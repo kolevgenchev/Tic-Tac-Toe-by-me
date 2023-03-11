@@ -1,0 +1,43 @@
+td {
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 50px;
+  font-weight: bold;
+  border: 2px solid black;
+}
+h1{
+  margin-left: 100px;
+  font-style:oblique
+}
+
+body {
+  background-color: rgb(255, 251, 0);
+}
+
+.text textarea {
+  font-size: 25px;
+  font-family: Arial, sans-serif;
+}
+
+.text {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-left: 800px;
+}
+
+table {
+  margin: 0 auto;
+  margin-top: 100px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+
