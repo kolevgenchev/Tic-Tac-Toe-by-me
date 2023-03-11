@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-by-me
-A simple Tic Tac Toe game i made myself! You can play it here	👉
+A simple Tic Tac Toe game i made myself! You can play it here	👉 https://kolevgenchev.github.io/Tic-Tac-Toe-by-me/
 
 Here's a screenshot of the game! 👇
 
